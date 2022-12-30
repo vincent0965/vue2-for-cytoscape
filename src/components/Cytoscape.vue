@@ -148,10 +148,6 @@ export default defineComponent ({
         this.info.push(edgeForm) //never and string
         console.log(edgeForm)
       }
-
-      //this.info.push(edgeArray)
-      //console.log(e.data('id'))
-      //console.log(info)
     })
 
   },
@@ -160,9 +156,6 @@ export default defineComponent ({
       this.info=[]
     }
   },
-  // watch:{
-  //   info:"initInfo",
-  // },
 });
 
 </script>
