@@ -1,4 +1,4 @@
-# Cytoscape_vue3
+# Cytoscape_vue2
 
 ## Project setup
 ```
